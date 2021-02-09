@@ -10,7 +10,7 @@ describe WordWrapper do
       expect(wrapped.wrap(text_blob, 5)).to eq expected
     end 
 
-    it "wraps around a bigger file" do 
+    xit "wraps around a bigger file" do 
       text_blob = IO.readlines("./test/gettysburg_address.txt")
       expected = "idk"
       wrapped = WordWrapper.new(text_blob, 100)

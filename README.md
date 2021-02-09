@@ -11,3 +11,7 @@ Like a word processor, break the line by replacing the last space in a line with
 - Enhance static type checking with [RBS](https://github.com/ruby/rbs)
 - Write tests for running bigger files 
 - Package for ruby gem usage
+
+<summary>Design Decision
+  <details>Peekaboo!</details>
+</summary>

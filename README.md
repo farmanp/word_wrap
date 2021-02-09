@@ -10,3 +10,4 @@ Like a word processor, break the line by replacing the last space in a line with
 - Write directions on how to use Word Wrap 
 - Enhance static type checking with [RBS](https://github.com/ruby/rbs)
 - Write tests for running bigger files 
+- Package for ruby gem usage

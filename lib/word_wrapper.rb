@@ -5,7 +5,7 @@ class WordWrapper
   end
 
 =begin
-The wrap function takes in a @String of text and an @Integer for columnumn
+The wrap function takes in a @String of text and an @Integer for column
 number. The method returns a copy of the string occurrences for the
 pattern in the second argument, which is choosing between match group
 1 or match group 3. The regex in the first argument is split into three
